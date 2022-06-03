@@ -6,7 +6,7 @@ I am a third-year PhD candidate in the [Department of Computer Science and Engin
 The 42nd IEEE International Conference on Distributed Computing Systems (ICDCS 2022), Bologna, Italy, July 10-13, 2022 (To Appear)<br>
 
 ## Experience
-Intern in Tencent, 2018<br>
+Intern in Tencent, Mar. 2018 - Sept. 2018<br>
 
 ## Teaching
 Teaching Assistant of CSCI3150 Introduction to Operating Systems<br>
