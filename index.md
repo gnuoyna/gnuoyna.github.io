@@ -1,4 +1,4 @@
-I am a third-year CS PhD candidate at CUHK CSE, advised by [Prof. Zili Shao](http://www.cse.cuhk.edu.hk/~shao/). I am interested in spatio-temporal data management, storage system, and cloud database.
+I am a third-year PhD candidate in the [Department of Computer Science and Engineering](https://www.cse.cuhk.edu.hk/) at The Chinese University of Hong Kong (CUHK), advised by [Prof. Zili Shao](http://www.cse.cuhk.edu.hk/~shao/). I am interested in spatio-temporal data management, storage system, and cloud database.
 
 ## Publications
 1. _Cymo: A Storage Model with Query-Aware Indexing for Spatio-Temporal Big Data_<br>
@@ -13,7 +13,7 @@ Teaching Assistant of CSCI3150 Introduction to Operating Systems<br>
 Teaching Assistant of ESTR3102 Introduction to Operating Systems (Elite Stream)<br>
 
 ## Honors and Awards
-Postgraduate Scholarship, The Chinese University of Hong Kong, 2019 - 2023<br>
+Postgraduate Scholarship, CUHK, 2019 - 2023<br>
 National Scholarship, Ministry of Education, 2015-2016<br>
 
 
