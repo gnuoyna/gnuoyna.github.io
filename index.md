@@ -14,7 +14,7 @@ Teaching Assistant of ESTR3102 Introduction to Operating Systems (Elite Stream)<
 
 ## Honors and Awards
 Postgraduate Scholarship, CUHK, 2019 - 2023<br>
-National Scholarship, Ministry of Education, 2015-2016<br>
+National Scholarship, Ministry of Education, 2015 - 2016<br>
 
 
 (Last update: June 03, 2022)
