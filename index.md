@@ -26,4 +26,4 @@ Postgraduate Scholarship, CUHK, 2019 - 2023<br>
 National Scholarship, Ministry of Education, 2015 - 2016<br>
 
 
-(Last update: November 11, 2024)
+(Last update: November 27, 2024)
