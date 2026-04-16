@@ -12,7 +12,6 @@ The 41st International Conference on Data Engineering (ICDE 2025)<br>
 2. _A Spatio-Temporal Series Data Model with Efficient Indexing and Layout for Cloud-Based Trajectory Data Management_<br>
 **Yang Guo**, Zhiqi Wang, Jin Xue, and Zili Shao<br>
 The 40th International Conference on Data Engineering (ICDE 2024)<br>
-
 1. _Cymo: A Storage Model with Query-Aware Indexing for Spatio-Temporal Big Data_<br>
 **Yang Guo**, Zili Shao<br>
 The 42nd IEEE International Conference on Distributed Computing Systems (ICDCS 2022)<br>
