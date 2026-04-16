@@ -5,7 +5,7 @@ I am currently a postdoctoral researcher at University at Buffalo, working with 
 ### Conference
 4. _Swan: Hybrid MVCC Management for Efficient Transaction Processing in LSM-Tree-Based Key-Value Stores_<br>
 **Yang Guo<sup>*</sup>**, Jin Xue<sup>*</sup>, and Zili Shao (<sup>*</sup>: Equal contribution)<br>
-International Conference on Very Large Databases (VLDB 2026)<br>
+The 52nd International Conference on Very Large Data Bases (VLDB 2026)<br>
 3. _A Storage Model with Fine-Grained In-Storage Query Processing for Spatio-Temporal Data_<br>
 **Yang Guo**, Tianyu Wang, Zizhan Chen, and Zili Shao<br>
 The 41st International Conference on Data Engineering (ICDE 2025)<br>
