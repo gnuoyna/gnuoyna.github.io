@@ -1,10 +1,10 @@
-I am currently a postdoctorl researcher at University at Buffalo, working with [Prof. Jinjun Xiong](https://scholar.google.com/citations?user=tRt1xPYAAAAJ&hl=en) and [Prof. Venu Govindaraju](https://scholar.google.com/citations?user=ruIgbscAAAAJ&hl=en). I received my PhD in Computer Science and Engineering  from the Chinese University of Hong Kong (CUHK), under the supervision of  [Prof. Zili Shao](http://www.cse.cuhk.edu.hk/~shao/). Previously, I received my B.Eng. from the University of Electronic Science and Technology of China (UESTC). I am interested in spatio-temporal data management, storage system, and cloud database.
+I am currently a postdoctoral researcher at University at Buffalo, working with [Prof. Jinjun Xiong](https://scholar.google.com/citations?user=tRt1xPYAAAAJ&hl=en) and [Prof. Venu Govindaraju](https://scholar.google.com/citations?user=ruIgbscAAAAJ&hl=en). I received my PhD in Computer Science and Engineering  from the Chinese University of Hong Kong (CUHK), under the supervision of  [Prof. Zili Shao](http://www.cse.cuhk.edu.hk/~shao/). Previously, I received my B.Eng. from the University of Electronic Science and Technology of China (UESTC). I am interested in spatio-temporal data management, storage system, and cloud database.
 
 ## Selected Publications
 
 ### Conference
 4. _Swan: Hybrid MVCC Management for Efficient Transaction Processing in LSM-Tree-Based Key-Value Stores_<br>
-**Yang Guo***, Jin Xue*, and Zili Shao (*: Equal contribution)<br>
+**Yang Guo<sup>*</sup>**, Jin Xue<sup>*</sup>, and Zili Shao (<sup>*</sup>: Equal contribution)<br>
 International Conference on Very Large Databases (VLDB 2026)<br>
 3. _A Storage Model with Fine-Grained In-Storage Query Processing for Spatio-Temporal Data_<br>
 **Yang Guo**, Tianyu Wang, Zizhan Chen, and Zili Shao<br>
